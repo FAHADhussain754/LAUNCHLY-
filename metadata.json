@@ -1,0 +1,6 @@
+{
+  "name": "LAUNCHLY",
+  "description": "Your Business. One Platform. An all-in-one AI-powered business launch and management SaaS platform for e-commerce founders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
